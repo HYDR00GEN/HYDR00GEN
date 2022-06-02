@@ -15,3 +15,6 @@
         <img src="https://img.shields.io/badge/TypeScript-%20black?style=for-the-badge&logo=typescript" alt="ts"/>
         <img src="https://img.shields.io/badge/React-%20black?style=for-the-badge&logo=react" alt="react"/>
 </p>
+<p align="right"><b>CRYPTO ENTHUSIAST: </b>
+    <img src="https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge" alt="ts"/> 
+</p>
