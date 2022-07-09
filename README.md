@@ -18,3 +18,4 @@
 <p align="right"><b>CRYPTO ENTHUSIAST <i>since 2017</i> </b> <br>
     <img src="https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge" alt="ts"/> 
 </p>
+![](https://komarev.com/ghpvc/?username=HYDR00GEN&style=flat-square)
