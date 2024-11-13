@@ -21,7 +21,6 @@
                 <img src="https://img.shields.io/badge/HTML-%20black?style=for-the-badge&logo=html5" alt="html5"/>
                 <img src="https://img.shields.io/badge/CSS3-%20black?style=for-the-badge&logo=css3" alt="css3"/>
                 <img src="https://img.shields.io/badge/JavaScript-%20black?style=for-the-badge&logo=javascript" alt="js"/>
-                
         </p>
 <p align="right"><b>CRYPTO ENTHUSIAST <i>since 2017</i> </b> <br>
     <img src="https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge" alt="ts"/> 
